@@ -2,6 +2,8 @@
 
 **You have one month to create your professional Portfolio, and at the same time to work on your daily or weekly exercises and projects!**
 
+![Dream Job](http://www.inspirecommunity.org.au/wp-content/uploads/Dream_job_next_exit.jpg)
+
 ## Prerequisites
 
 First retreive your previous work
