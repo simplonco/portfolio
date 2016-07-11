@@ -1,5 +1,7 @@
 # Portfolio
 
+You have one month to create your professional Portfolio, in the same time of working on your daily / weekly exercises and projects!
+
 ## Requierements
 
 First retreive your previous work from
