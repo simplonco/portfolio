@@ -11,9 +11,9 @@ https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World
 
 ## Checklist
 
-* Lier votre compte GitHub https://github.com/settings/profile (prendre le temps de remplir les informations de votre profil)
-* Lier votre compte LinkedIn
-* Lier votre compte Stack Overflow Carrers (si vous ne l'avez pas, créez-en un sur http://careers.stackoverflow.com/)
+* Lier votre compte **GitHub** https://github.com/settings/profile (prendre le temps de remplir les informations de votre profil)
+* Lier votre compte **LinkedIn**
+* Lier votre compte **Stack Overflow Carrers** (si vous ne l'avez pas, créez-en un sur http://careers.stackoverflow.com/)
 
 ## Hébergement
 
