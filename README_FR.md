@@ -1,6 +1,6 @@
 # Portfolio
 
-Vous avez un mois pour créer votre Portfolio professionnel, et dans le même temps de travailler sur vos exercices et projets quotidiens ou hebdomadaires !
+**Vous avez un mois pour créer votre Portfolio professionnel, et dans le même temps de travailler sur vos exercices et projets quotidiens ou hebdomadaires !**
 
 ## Prérequis
 
