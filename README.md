@@ -1,19 +1,19 @@
 # Portfolio
 
-You have one month to create your professional Portfolio, in the same time of working on your daily / weekly exercises and projects!
+You have one month to create your professional Portfolio, and at the same time to work on your daily or weekly exercises and projects!
 
-## Requierements
+## Prerequisites
 
-First retreive your previous work from
+First retreive your previous work
 https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World
 
 ## Checklist
 
-* Link to your GitHub account https://github.com/settings/profile (take the time to fill information of your profile)
-* Link to your LinkedIn account
-* Link to Stack Overflow Carrers account (if you don't have one, create it http://careers.stackoverflow.com/)
+* Link your GitHub account https://github.com/settings/profile (take the time to fill out your profile information)
+* Link your LinkedIn account
+* Link your Stack Overflow Carrers account (if you do not have one, create it on http://careers.stackoverflow.com/)
 
 ## Hosting
 
-Upload it on GitHub page, more info here:
+Upload your website with GitHub page, more info here:
 https://pages.github.com/
