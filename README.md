@@ -29,11 +29,11 @@ https://pages.github.com/
 * https://bmiande.github.io
 * https://aboualnaser.github.io
 * https://solomongamid.github.io
-* http://sakhradam.github.io
+* https://sakhradam.github.io
 
 ## Not Working Portfolios:
 
 * https://elmardi2.github.io
-* http://alizaidi1.github.io
-* http://sabachadi.github.io
-* http://omar90sh.github.io
+* https://alizaidi1.github.io
+* https://sabachadi.github.io
+* https://omar90sh.github.io
