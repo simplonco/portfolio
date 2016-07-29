@@ -26,14 +26,14 @@ https://pages.github.com/
 * https://amare16.github.io
 * https://beriva.github.io
 * https://thamoui.github.io
-* https://elmardi2.github.io
 * https://bmiande.github.io
 * https://aboualnaser.github.io
 * https://solomongamid.github.io
+* http://sakhradam.github.io
 
 ## Not Working Portfolios:
 
-* http://sakhradam.github.io
+* https://elmardi2.github.io
 * http://alizaidi1.github.io
 * http://sabachadi.github.io
 * http://omar90sh.github.io
