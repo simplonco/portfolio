@@ -20,6 +20,12 @@ https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World
 Upload your website with GitHub page, more info here:
 https://pages.github.com/
 
+## Inspirations
+
+* http://www.awwwards.com/websites/portfolio/
+* https://onepagelove.com/gallery/portfolio/
+* http://jgthms.com/web-design-in-4-minutes/
+
 ## Montreuil - Promo #5
 
 * https://aboualnaser.github.io
