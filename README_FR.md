@@ -19,3 +19,27 @@ https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World
 
 Mettez en ligne votre site web avec GitHub page, plus d'info ici:
 https://pages.github.com/
+
+
+## Inspirations
+
+* http://www.awwwards.com/websites/portfolio/
+* https://onepagelove.com/gallery/portfolio/
+* http://jgthms.com/web-design-in-4-minutes/
+
+## Montreuil - Promo #5
+
+* https://aboualnaser.github.io
+* https://adora84.github.io (username aren't professional)
+* https://ahmedsalem1210.github.io (username aren't professional)
+* https://alizaidi1.github.io (username aren't professional)
+* https://amare16.github.io (username aren't professional)
+* https://beriva.github.io
+* https://bmiande.github.io
+* https://elmardi2.github.io (username aren't professional)
+* https://omar90sh.github.io (username aren't professional)
+* https://sabachadi.github.io
+* https://sakhradam.github.io
+* https://solomongamid.github.io
+* https://tarek666.github.io (username aren't professional, but cool)
+* https://thamoui.github.io
