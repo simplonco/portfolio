@@ -29,13 +29,13 @@ https://pages.github.com/
 ## Montreuil - Promo #5
 
 * https://aboualnaser.github.io
-* https://adora84.github.io (username aren't professional)
 * https://ahmedsalem1210.github.io (username aren't professional)
 * https://alizaidi1.github.io (username aren't professional)
 * https://amare16.github.io (username aren't professional)
 * https://beriva.github.io
 * https://bmiande.github.io
-* https://elmardi2.github.io (username aren't professional)
+* https://elmardi2.github.io (username aren't professional
+* https://kalaaji.github.io
 * https://omar90sh.github.io (username aren't professional)
 * https://sabachadi.github.io
 * https://sakhradam.github.io
